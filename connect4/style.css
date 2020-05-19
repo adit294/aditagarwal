@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    padding-top: 7px;
+    padding-left:15px;
+  }
+  canvas {
+    display: block;
+  }
+  
+  .button-wrapper  {
+    padding-bottom: 10px;
+  }
+  
+  @media screen and (max-width: 900px) 
+  {
+     body{
+         padding-left: 15%;
+         padding-top: 20%;
+     }
+  }
+  
